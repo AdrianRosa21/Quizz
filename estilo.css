@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.option-btn {
+  width: 100%;
+  margin: 8px 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.option-btn.correct {
+  background-color: #d4edda;
+  border-color: #28a745;
+}
+
+.option-btn.incorrect {
+  background-color: #f8d7da;
+  border-color: #dc3545;
+}
+
+.feedback {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#quiz-container {
+  max-width: 600px;
+  margin: auto;
+}

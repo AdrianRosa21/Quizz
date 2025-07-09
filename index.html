@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Quiz Selector</title>
+  <link rel="icon" type="image/png" href="img/aaa.jpg">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <script src="https://kit.fontawesome.com/a2d9c38c59.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+  font-family: 'Montserrat', sans-serif;
+  background: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh6YnFoYWNkcXVkN3drbGdibGFzenA1YW0wcjltOHVlOGg3dWt0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJvz8Qnfly3BOuotGx/giphy.gif') no-repeat center center fixed;
+  background-size: cover;
+  cursor: url('img/arrow2662.png'), auto;
+}
+
+    .card-hover:hover {
+      transform: scale(1.05);
+      transition: transform 0.3s;
+      cursor: url('img/click.png'), pointer;
+    }
+    .blanco{
+        color: #ffffff;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="text-center py-5">
+  <div class="container">
+    <h1 class="text-4xl font-bold mb-5 blanco">🎉 Choose Your Quiz Adventure! 🧠</h1>
+    <p class="text-lg mb-8 blanco">Welcome! Pick the version of the quiz that fits you best. Ready to test your knowledge? 🚀</p>
+
+    <div class="row justify-content-center g-5">
+      <!-- Card for Kids -->
+      <div class="col-md-5">
+        <div class="card shadow-lg card-hover border border-primary border-3" onclick="location.href='Quizpeques.html'">
+          <div class="card-body bg-primary bg-opacity-10 rounded">
+            <h3 class="card-title text-2xl font-bold text-primary">🧒 Kids Quiz</h3>
+            <p class="card-text mt-3">This fun quiz is designed for children and is inspired by the vibes of 1990! 🎮🕹️<br>Let's see what you know!</p>
+            <button class="btn btn-primary mt-4">Start Quiz 🚀</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card for Adults -->
+      <div class="col-md-5">
+        <div class="card shadow-lg card-hover border border-success border-3" onclick="location.href='QuizGrandes.html'">
+          <div class="card-body bg-success bg-opacity-10 rounded">
+            <h3 class="card-title text-2xl font-bold text-success">🧔 Adults Quiz</h3>
+            <p class="card-text mt-3">This is a more challenging version for adults who love trivia and nostalgia! 📚🎧<br>Are you ready?</p>
+            <button class="btn btn-success mt-4">Start Quiz 🎯</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="mt-5 text-muted">
+      <p class="mb-0 blanco">Made with ❤️ for the English Festival | Powered by Rodrigo Rosa, Diego Elias, Adriana Bonilla, Jhonatan David</p>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

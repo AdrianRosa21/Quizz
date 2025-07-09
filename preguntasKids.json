@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Who is this character from the 90s?",
+    "image": "img/bart.webp",
+    "options": ["Tommy Pickles", "Bart Simpson", "Dexter", "Johnny Bravo"],
+    "answer": "Bart Simpson"
+  },
+  {
+    "question": "Which was the famous boy band popular in the 90s?",
+    "image": "img/boi.jfif",
+    "options": ["Backstreet Boys", "NSYNC", "New Kids on the Block", "98 Degrees"],
+    "answer": "Backstreet Boys"
+  },
+  {
+    "question": "Which toy was very popular in the 90s?",
+    "image": "img/Tamagotchi.jfif",
+    "options": ["Tamagotchi", "Furby", "Beanie Babies", "Pogs"],
+    "answer": "Tamagotchi"
+  },
+  {
+    "question": "What color is Pikachu from Pokémon?",
+    "image": "img/Yellow.jpg",
+    "options": ["Blue", "Red", "Yellow", "Green"],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which movie is about toys that come to life?",
+    "image": "img/Toystory.jpg",
+    "options": ["Toy Story", "Small Soldiers", "Jumanji", "Babe"],
+    "answer": "Toy Story"
+  },
+  {
+    "question": "Which 90s video game console was created by Nintendo?",
+    "image": "img/Nintendo64.jpg",
+    "options": ["Nintendo 64", "PlayStation", "Sega Genesis", "Atari Jaguar"],
+    "answer": "Nintendo 64"
+  },
+  {
+    "question": "Which cartoon features a sponge living in a pineapple?",
+    "image": "img/SpongeBob.jfif",
+    "options": ["SpongeBob", "Rugrats", "Hey Arnold!", "Dexter's Laboratory"],
+    "answer": "SpongeBob"
+  }
+]

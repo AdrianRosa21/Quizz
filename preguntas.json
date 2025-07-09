@@ -1,0 +1,67 @@
+[
+  {
+    "pregunta": "Who was the President of the United States at the beginning of the 1990s?",
+    "opciones": ["George H. W. Bush", "Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
+    "respuesta": "George H. W. Bush"
+  },
+  {
+    "pregunta": "Which TV sitcom about six friends became a cultural phenomenon in the mid-1990s?",
+    "opciones": ["Friends", "Seinfeld", "The Fresh Prince of Bel-Air", "Cheers"],
+    "respuesta": "Friends"
+  },
+  {
+    "pregunta": "What major world event involving the US occurred in 1991 that marked the end of the Cold War era?",
+    "opciones": ["Dissolution of the Soviet Union", "Fall of the Berlin Wall", "Gulf War", "September 11 attacks"],
+    "respuesta": "Gulf War"
+  },
+  {
+    "pregunta": "Which basketball player led the Chicago Bulls to six NBA championships in the 1990s?",
+    "opciones": ["Michael Jordan", "Magic Johnson", "Larry Bird", "Shaquille O'Neal"],
+    "respuesta": "Michael Jordan"
+  },
+  {
+    "pregunta": "What was the name of the controversial trial that dominated US news in 1995?",
+    "opciones": ["O.J. Simpson trial", "Rodney King trial", "Clinton impeachment", "Menendez brothers trial"],
+    "respuesta": "O.J. Simpson trial"
+  },
+  {
+    "pregunta": "Which technology company became dominant in personal computing during the 1990s?",
+    "opciones": ["Microsoft", "Apple", "IBM", "Compaq"],
+    "respuesta": "Microsoft"
+  },
+  {
+    "pregunta": "What was the name of the legislation signed in 1990 that protected disabled Americans?",
+    "opciones": ["Americans with Disabilities Act", "Civil Rights Act", "Rehabilitation Act", "Equal Opportunity Act"],
+    "respuesta": "Americans with Disabilities Act"
+  },
+  {
+    "pregunta": "Which music genre emerged from Seattle and became hugely popular in the early 1990s?",
+    "opciones": ["Grunge", "Hip Hop", "Techno", "Country"],
+    "respuesta": "Grunge"
+  },
+  {
+    "pregunta": "What was the name of the first US military conflict of the 1990s?",
+    "opciones": ["Gulf War", "Vietnam War", "Korean War", "Afghanistan War"],
+    "respuesta": "Gulf War"
+  },
+  {
+    "pregunta": "Which toy craze swept American schools in the late 1990s?",
+    "opciones": ["Tamagotchi", "Furby", "Beanie Babies", "Pokémon cards"],
+    "respuesta": "Tamagotchi"
+  },
+  {
+    "pregunta": "What would happen if all bees suddenly disappeared?",
+    "opciones": [
+      "Global food production would be severely impacted",
+      "Nothing would change",
+      "Only honey would become unavailable",
+      "Plants would grow faster"
+    ],
+    "respuesta": "Global food production would be severely impacted"
+  },
+  {
+    "pregunta": "Which planet in our solar system has the most moons?",
+    "opciones": ["Jupiter", "Saturn", "Neptune", "Mars"],
+    "respuesta": "Jupiter"
+  }
+]
