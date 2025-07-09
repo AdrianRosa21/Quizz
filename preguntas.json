@@ -1,67 +1,37 @@
 [
   {
-    "pregunta": "Who was the President of the United States at the beginning of the 1990s?",
-    "opciones": ["George H. W. Bush", "Bill Clinton", "Ronald Reagan", "Jimmy Carter"],
-    "respuesta": "George H. W. Bush"
+    "pregunta": "Who won the Golden Boot in 1990?",
+    "opciones": ["Salvatore Schillaci", "Gary Lineker", "Ronaldo", "Diego Maradona"],
+    "respuesta": "Salvatore Schillaci"
   },
   {
-    "pregunta": "Which TV sitcom about six friends became a cultural phenomenon in the mid-1990s?",
-    "opciones": ["Friends", "Seinfeld", "The Fresh Prince of Bel-Air", "Cheers"],
-    "respuesta": "Friends"
+    "pregunta": "What is the other name of the age of bodybuilding in 1990s?",
+    "opciones": ["Massive monster", "Golden era", "New era", "Modern era"],
+    "respuesta": "Massive monster"
   },
   {
-    "pregunta": "What major world event involving the US occurred in 1991 that marked the end of the Cold War era?",
-    "opciones": ["Dissolution of the Soviet Union", "Fall of the Berlin Wall", "Gulf War", "September 11 attacks"],
-    "respuesta": "Gulf War"
+    "pregunta": "Which is the most popular fast food place in 1990s?",
+    "opciones": ["McDonald's", "Burger King", "KFC", "Taco Bell"],
+    "respuesta": "McDonald's"
   },
   {
-    "pregunta": "Which basketball player led the Chicago Bulls to six NBA championships in the 1990s?",
-    "opciones": ["Michael Jordan", "Magic Johnson", "Larry Bird", "Shaquille O'Neal"],
-    "respuesta": "Michael Jordan"
+    "pregunta": "What was the most delicious snack kid cuisine in 1990?",
+    "opciones": ["Kid Cuisine", "Lunchables", "Dunkaroos", "Fruit Roll-Ups"],
+    "respuesta": "Kid Cuisine"
   },
   {
-    "pregunta": "What was the name of the controversial trial that dominated US news in 1995?",
-    "opciones": ["O.J. Simpson trial", "Rodney King trial", "Clinton impeachment", "Menendez brothers trial"],
-    "respuesta": "O.J. Simpson trial"
+    "pregunta": "Which is one videogame released in 1990?",
+    "opciones": ["Super Mario World", "Sonic the Hedgehog", "Street Fighter II", "The Legend of Zelda: A Link to the Past"],
+    "respuesta": "Super Mario World"
   },
   {
-    "pregunta": "Which technology company became dominant in personal computing during the 1990s?",
-    "opciones": ["Microsoft", "Apple", "IBM", "Compaq"],
-    "respuesta": "Microsoft"
+    "pregunta": "Here i want a question about technology in 1990 but in hypotetical hipotetical way",
+    "opciones": ["Kid Cuisine", "Lunchables", "Dunkaroos", "Fruit Roll-Ups"],
+    "respuesta": "Kid Cuisine"
   },
   {
-    "pregunta": "What was the name of the legislation signed in 1990 that protected disabled Americans?",
-    "opciones": ["Americans with Disabilities Act", "Civil Rights Act", "Rehabilitation Act", "Equal Opportunity Act"],
-    "respuesta": "Americans with Disabilities Act"
-  },
-  {
-    "pregunta": "Which music genre emerged from Seattle and became hugely popular in the early 1990s?",
-    "opciones": ["Grunge", "Hip Hop", "Techno", "Country"],
-    "respuesta": "Grunge"
-  },
-  {
-    "pregunta": "What was the name of the first US military conflict of the 1990s?",
-    "opciones": ["Gulf War", "Vietnam War", "Korean War", "Afghanistan War"],
-    "respuesta": "Gulf War"
-  },
-  {
-    "pregunta": "Which toy craze swept American schools in the late 1990s?",
-    "opciones": ["Tamagotchi", "Furby", "Beanie Babies", "Pokémon cards"],
-    "respuesta": "Tamagotchi"
-  },
-  {
-    "pregunta": "What would happen if all bees suddenly disappeared?",
-    "opciones": [
-      "Global food production would be severely impacted",
-      "Nothing would change",
-      "Only honey would become unavailable",
-      "Plants would grow faster"
-    ],
-    "respuesta": "Global food production would be severely impacted"
-  },
-  {
-    "pregunta": "Which planet in our solar system has the most moons?",
-    "opciones": ["Jupiter", "Saturn", "Neptune", "Mars"],
-    "respuesta": "Jupiter"
+    "pregunta": "Which is one videogame released in 1990?",
+    "opciones": ["Super Mario World", "Sonic the Hedgehog", "Street Fighter II", "The Legend of Zelda: A Link to the Past"],
+    "respuesta": "Super Mario World"
   }
 ]
